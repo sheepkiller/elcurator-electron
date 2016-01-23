@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Notification	js/browser.js	/^var NativeNotification = Notification;$/;"	f
+Notification	js/browser.js	/^};$/;"	c
+center	main.js	/^function center(win) {$/;"	f
+createMainWindow	main.js	/^function createMainWindow() {$/;"	f
+main	package.json	/^  "main": "main.js"$/;"	f
+name	package.json	/^  "name": "elcurator-electron",$/;"	f
+showAndCenter	main.js	/^function showAndCenter(win) {$/;"	f
+version	package.json	/^  "version": "0.0.1",$/;"	f
